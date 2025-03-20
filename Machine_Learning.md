@@ -17,7 +17,7 @@ This model uses historical data to predict the future price of BTC.
 
 Implementation:
 
-```
+```py
 import pandas as pd
 import numpy as np
 import requests
