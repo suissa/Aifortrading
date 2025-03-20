@@ -14,9 +14,14 @@ Primeiramente, coletamos notícias sobre o Bitcoin e tweets relevantes. Podemos 
 Aqui, usaremos web scraping para coletar manchetes de notícias sobre o Bitcoin.
 
 Instalação das Dependências:
+```py
+pip install requests beautifulsoup4
+```
+
+Agora vamos pegar as notícias:
 
 ```py
-pip install requests beautifulsoup4 pandas textblob nltk transformers matplotlib yfinance
+ pandas textblob nltk transformers matplotlib yfinance
 
 Web Scraping de Notícias sobre Bitcoin
 
