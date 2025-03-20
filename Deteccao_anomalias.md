@@ -1,4 +1,4 @@
-Anomaly Detection in Financial Data Using Autoencoders
+# Anomaly Detection in Financial Data Using Autoencoders
 
 How to identify anomalous patterns and arbitrage opportunities using unsupervised neural networks.
 
